@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elite-E-commerce.git/static/css/main.44a0729f.css",
+    "main.js": "/Elite-E-commerce.git/static/js/main.5b87df5d.js",
+    "index.html": "/Elite-E-commerce.git/index.html",
+    "main.44a0729f.css.map": "/Elite-E-commerce.git/static/css/main.44a0729f.css.map",
+    "main.5b87df5d.js.map": "/Elite-E-commerce.git/static/js/main.5b87df5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a0729f.css",
+    "static/js/main.5b87df5d.js"
+  ]
+}
