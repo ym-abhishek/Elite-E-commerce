@@ -21,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://ym-abhishek.github.io/Elite-E-commerce/",
   "eslintConfig": {
     "extends": [
       "react-app",
